@@ -9,7 +9,7 @@ UNC Coding Boot Camp - Clicky-Game - Assignment #15 (REACT, Heroku)
 
 **Developer Comments** - The Clicky-Game primarily introduces REACT and all its benefits. Though this game is not persistent it is easy to understand the reusable component concept using REACT truly improves the development process.
 
-**Credit** - Big thanks to [Richard Paez](https://github.com/RPaez09/) for explaining and introducing reusable fade transition.
+**Credits** - Big thanks to [Richard Paez](https://github.com/RPaez09/) for explaining and introducing reusable fade transition.
 
 ## Heroku Link
 The link below will give you direct access to Clicky-Game web application using your web browser via the Heroku web service. (NOTE: There will be a momentary delay when first accessing the Heroku servers.)
