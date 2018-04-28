@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://uncbc-nytscrape.herokuapp.com/" target="_blank"><img src=https://github.com/GrissomErick/Clicky-Game/blob/master/public/img/Clicky_Game_Header.png?raw=true" alt="Project logo"/></a>
+<a href="https://uncbc-clickygame.herokuapp.com/" target="_blank"><img src=https://raw.githubusercontent.com/GrissomErick/Clicky-Game/master/public/assets/img/NYT_Scrape_Header.png?raw=true" alt="Project logo"/></a>
 </p>
 
 # Clicky-Game
@@ -12,7 +12,7 @@ UNC Coding Boot Camp - Clicky-Game - Assignment #15 (REACT, Heroku)
 ## Heroku Link
 The link below will give you direct access to Clicky-Game web application using your web browser via the Heroku web service. (NOTE: There will be a momentary delay when first accessing the Heroku servers.)
 
-* [Clicky-Game](https://uncbc-nytscrape.herokuapp.com/)
+* [Clicky-Game](https://uncbc-clickygame.herokuapp.com/)
 
 ## Local Environment Setup
 To use Clicky-Game web application application from your local environment, you must accomplish the following steps below:
