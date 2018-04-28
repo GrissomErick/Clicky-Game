@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://uncbc-nytscrape.herokuapp.com/" target="_blank"><img src=https://raw.githubusercontent.com/GrissomErick/NYT-Scrape/master/public/assets/img/NYT_Scrape_Header.png?raw=true" alt="Project logo"/></a>
+<a href="https://uncbc-nytscrape.herokuapp.com/" target="_blank"><img src=https://github.com/GrissomErick/Clicky-Game/blob/master/public/img/Clicky_Game_Header.png?raw=true" alt="Project logo"/></a>
 </p>
 
 # Clicky-Game
