@@ -73,7 +73,7 @@ Clicky-Game uses the following NPM packages:
 <!-- Heroku References: https://evening-ridge-94356.herokuapp.com/ | https://git.heroku.com/evening-ridge-94356.git -->
 
 <!--
-- axios NPM Package - [https://www.npmjs.com/package/axios)
+- axios NPM Package - [https://www.npmjs.com/package/axios](https://www.npmjs.com/package/axios)
 - body-parser NPM Package - [https://www.npmjs.com/package/body-parser](https://www.npmjs.com/package/body-parser)
 - cheerio NPM Package - [ttps://www.npmjs.com/package/cheerio](https://www.npmjs.com/package/cheerio)
 - cli-table NPM Package - [https://www.npmjs.com/package/cli-table](https://www.npmjs.com/package/cli-table)
@@ -82,13 +82,13 @@ Clicky-Game uses the following NPM packages:
 - heroku-cli NPM Package - [https://www.npmjs.com/package/heroku-cli](https://www.npmjs.com/package/heroku-cli)
 - inquirer NPM Package - [https://www.npmjs.com/package/inquirer](https://www.npmjs.com/package/inquirer)
 - mongoose NPM Package - [https://www.npmjs.com/package/mongoose](https://www.npmjs.com/package/mongoose)
-- morgan NPM Package - [https://www.npmjs.com/package/morgan)
+- morgan NPM Package - [https://www.npmjs.com/package/morgan](https://www.npmjs.com/package/morgan)
 - mysql NPM Package - [https://www.npmjs.com/package/mysql](https://www.npmjs.com/package/mysql)
 - node.js - [https://nodejs.org/en/](https://nodejs.org/en/)
 - path NPM Package - [https://www.npmjs.com/package/path](https://www.npmjs.com/package/path)
-- react NPM Package - [https://www.npmjs.com/package/react)
-- react-dom NPM Package - [https://www.npmjs.com/search?q=react-dom)
-- react-router NPM Package - [https://www.npmjs.com/package/react-router)
+- react NPM Package - [https://www.npmjs.com/package/react](https://www.npmjs.com/package/react)
+- react-dom NPM Package - [https://www.npmjs.com/search?q=react-dom](https://www.npmjs.com/search?q=react-dom)
+- react-router NPM Package - [https://www.npmjs.com/package/react-router](https://www.npmjs.com/package/react-router)
 - request NPM Package - [https://www.npmjs.com/package/request](https://www.npmjs.com/package/request)
 -->
   
